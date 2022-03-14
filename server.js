@@ -1,6 +1,7 @@
 //required modules and files
 const express = require('express');
 const library = require('./data/library.js');
+const uuid = require('./utils/uuid');
 
 //create an instance of express
 const PORT = 3001;
