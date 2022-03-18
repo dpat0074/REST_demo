@@ -1,5 +1,5 @@
 # presentation_demo
-This presentation goes over a simple setup of a REST API. In this codebase, we are using Node.js to start up a local server that will have defined endpoints for each HTTP method (GET, POST, PUT, DELETE). Listed below is some assumed prior knowledge to get the code setup and have a general understanding of what we are trying to achieve.
+This presentation goes over a simple setup of a REST API. In this codebase, we are using Node.js to start up a local server that will have defined endpoints for each HTTP method (GET, POST, PUT, DELETE). Listed below is some assumed prior knowledge to get the code setup and have a general understanding of what we are trying to achieve. This repo can be cloned down or downloaded as a zip file to get the contents and run the code with node after installing the dependencies. 
 
 ## Assumed Prior Knowledge
 -npm i (install process for npm packages) \
