@@ -13,3 +13,6 @@ google slides on REST: https://docs.google.com/presentation/d/1Gw2HDdRexe0zUPMpC
 
 ## Constraints
 Due to the time constraints, we will not be able to write out the code together as a 'class', hence - I have created a seperate branch called 'inital_setup' that has the overhead setup without the REST API functionality implemented so you if you like to try on your own, checkout the branch and work from stratch to get to the final solution presented to get a better understanding of what we are trying to achieve.
+
+## Additional Reading
+https://www.redhat.com/en/topics/api/what-is-a-rest-api#:~:text=A%20REST%20API%20(also%20known,by%20computer%20scientist%20Roy%20Fielding.
