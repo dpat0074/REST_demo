@@ -4,7 +4,7 @@ This presentation goes over a simple setup of a REST API. In this codebase, we a
 ## Resources
 For this demo will be using VSCode (or an editor of your choice): https://code.visualstudio.com/download \
 POSTMAN (to test our endpoints): https://www.postman.com/downloads/. \
-google slides on REST: https://docs.google.com/presentation/d/1Gw2HDdRexe0zUPMpCxi3N_41CAyYOye5sSb3WLSR-MQ/edit?usp=sharing \
+google slides on REST: https://docs.google.com/presentation/d/1Gw2HDdRexe0zUPMpCxi3N_41CAyYOye5sSb3WLSR-MQ/edit?usp=sharing
 
 ## Assumed Prior Knowledge
 -npm i (install process for npm packages) \
